@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Varlyq/static/css/main.ca24a107.chunk.css",
+    "main.js": "/Varlyq/static/js/main.a5a64bfa.chunk.js",
+    "main.js.map": "/Varlyq/static/js/main.a5a64bfa.chunk.js.map",
+    "runtime-main.js": "/Varlyq/static/js/runtime-main.072d9bde.js",
+    "runtime-main.js.map": "/Varlyq/static/js/runtime-main.072d9bde.js.map",
+    "static/js/2.efcd4ee3.chunk.js": "/Varlyq/static/js/2.efcd4ee3.chunk.js",
+    "static/js/2.efcd4ee3.chunk.js.map": "/Varlyq/static/js/2.efcd4ee3.chunk.js.map",
+    "index.html": "/Varlyq/index.html",
+    "static/css/main.ca24a107.chunk.css.map": "/Varlyq/static/css/main.ca24a107.chunk.css.map",
+    "static/js/2.efcd4ee3.chunk.js.LICENSE.txt": "/Varlyq/static/js/2.efcd4ee3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.072d9bde.js",
+    "static/js/2.efcd4ee3.chunk.js",
+    "static/css/main.ca24a107.chunk.css",
+    "static/js/main.a5a64bfa.chunk.js"
+  ]
+}
