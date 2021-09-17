@@ -1,0 +1,8 @@
+.my_container {
+  display: block;
+  width: 1280px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: red;
+}
